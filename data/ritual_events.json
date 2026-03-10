@@ -1,0 +1,32 @@
+{
+  "scripture": "普蛊鸟路的故事 (The Story of Pugubirdway)",
+  "events": [
+    {
+      "id": "RE1",
+      "name": "Conflict Event",
+      "name_zh": "争斗事件",
+      "description": "Human conflict and confrontation scenes",
+      "primary_category": "人文",
+      "linked_chars": 325,
+      "confidence": 0.85
+    },
+    {
+      "id": "RE2",
+      "name": "Offering Event",
+      "name_zh": "祭祀供奉事件",
+      "description": "Food offering and ancestral ritual scenes",
+      "primary_category": "饮食",
+      "linked_chars": 97,
+      "confidence": 0.82
+    },
+    {
+      "id": "RE3",
+      "name": "Ritual Chanting Event",
+      "name_zh": "仪式念经事件",
+      "description": "Dongba priest chanting and deity communication",
+      "primary_category": "若喀字",
+      "linked_chars": 59,
+      "confidence": 0.91
+    }
+  ]
+}

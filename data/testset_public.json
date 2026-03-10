@@ -1,0 +1,602 @@
+[
+  {
+    "id": "",
+    "query": "[pʰvr53]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文麻风病也。当地人称之",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "纳西人二十八宿之一，相当",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[me³¹gA³³pY³³mb",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鸟大鹏金翅鸟也。为纳西",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "拾东西之“拾”也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[zA³¹]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文兵也。象人武装持矛之",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "地之东巴名(萨布萨拉)",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[ȵa³¹]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "宗教面偶头上出药水也。云",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "东巴名",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[ŋgo33ni33]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "地理乃水箱也，亦盛水用，",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "纠缠也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[to³³]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "天文意为星之脚板。纳西人",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "意可释为星之肩胛骨",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[hu55ko55]或[ko5",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文播扬也。画女子执箕播",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "喇嘛也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[mi33]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "建筑数目动作等还报祖先世代之恩也。",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "纳西人二十八宿之一",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tʂo³¹]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文纳西人也，或“拿喜”",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鬼名",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[mu55kʰa33tsʰa3",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鬼怪长脚杆之男吊死鬼也。",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "沟也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[dzɪ³¹pa³³pa³¹]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "用具打桩子，钉桩子也。画",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "相对环绕也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[hwa⁵⁵]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "天文日也。象太阳之形。在",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "给鬼血也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tsʰu⁵⁵ru³³la³³",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文以火罐吸炙疮病也。画",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "生大鼓头之秽鬼也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[to55]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "兽蜘蛛也。画其能吐丝之",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "骑也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "mi⁵⁵",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "神神名。会比量之神也，",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "牛虫也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[hu55]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "植物花苞也。以 为第一音",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "方隅也，角落也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[ts'e55]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "兽此乃东巴作法仪式中之",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "闲也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[zA31]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "神神名。此神见于*经典",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "时刻也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tʰi55rwa33sui5",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "用具掷骰子也。画于碗中掷",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "珊瑚也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[bv31]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "植物梅花也。画梅花之形。",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "北方也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[bomba'lytqpo55",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "兽东南方也。画一龙头安",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "舅父也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[no55]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "植物松脂也。可制松香者，",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "一“团”也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "kv³³",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鬼怪鬼名。绝(后)鬼也，",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "或作人群名，当地纳西人称傈僳族与纳西融合",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tswu³³]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "宗教手转念珠也。或写作 ",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "争吵相骂相打也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[na³¹ci³³o³¹he³",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鸟亦常如此读，前二音乃",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "滴也，点也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[i³¹]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "用具大木槌也。画大木槌之",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "由(心)[nv⁵⁵]及(黄豆)[nv³¹",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[zv55] [zv55 ha",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文压人魂魄也。示将人压",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "桃也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[sA^{33}hae^{55",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文人类第一代之始祖, ",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "许愿也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[p'e31k'u33]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鬼怪情死鬼也。以字注鬼名",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鬼惊抖也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[he33 dzi31]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "地理 两字联用，可作“夫",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "延伸也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tʋ31]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文意为“长命富实，白头",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "玉也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[pʰa31]",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "人文棺材也。画人在棺材中",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "钥匙也",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[se³¹kʰa³³rwa³³",
+    "query_type": "phonetic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "鸟打卦卜兆也，或问卦求",
+    "query_type": "category_semantic",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "由之[tsʸY55]及之[tsʰu33]",
+    "query_type": "meaning",
+    "correct_id": ""
+  },
+  {
+    "id": "",
+    "query": "[tɑ̃ʔ³¹pʰa˥₃³tɑ",
+    "query_type": "phonetic",
+    "correct_id": ""
+  }
+]
